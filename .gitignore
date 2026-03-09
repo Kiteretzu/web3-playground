@@ -1,0 +1,11 @@
+# All node modules in every folder
+
+# node_modules
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
